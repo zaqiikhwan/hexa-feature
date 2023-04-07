@@ -3,7 +3,7 @@ package main
 import (
 	"go-clean/src/business/domain"
 	"go-clean/src/business/usecase"
-	"go-clean/src/handler/rest"
+	"go-clean/src/handlers/rest"
 	"go-clean/src/lib/auth"
 	"go-clean/src/lib/configreader"
 	"go-clean/src/lib/sql"
